@@ -40,4 +40,13 @@
 
 
 ---
+# VimGolf4
+
+### 풀이과정
+
+![vim4](https://user-images.githubusercontent.com/94304874/144719502-8660d2ab-2100-4892-9563-284c04c2cf03.gif)
+
+### 결과
+
+![vim4](https://user-images.githubusercontent.com/94304874/144719505-1fc55ccc-e2dd-4093-9420-b181a52559cd.png)
 
