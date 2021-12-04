@@ -13,3 +13,16 @@
 
 
 ---
+# vim2
+
+### 풀이과정
+
+![vim2](https://user-images.githubusercontent.com/94304874/144719404-c657fd79-4194-4eb5-8f09-da6f789eb6d2.gif)
+
+### 결과
+
+![vim2](https://user-images.githubusercontent.com/94304874/144719420-a4b886f1-02cf-497d-91d9-ace59fe89471.png)
+
+
+
+---
