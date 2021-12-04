@@ -1,6 +1,6 @@
 # assignment2
 ---
-# vim1
+# VimGolf1
 
 ### 풀이과정
 
@@ -13,7 +13,7 @@
 
 
 ---
-# vim2
+# VimGolf2
 
 ### 풀이과정
 
@@ -26,3 +26,18 @@
 
 
 ---
+
+
+# VimGolf3
+
+### 풀이과정
+
+![vim3](https://user-images.githubusercontent.com/94304874/144719474-a3b63140-8425-4046-a103-64cbf22fcda0.gif)
+
+### 결과
+
+![vim3](https://user-images.githubusercontent.com/94304874/144719479-3a9ac429-7c4f-43a4-9ce1-5fbb20d5e8ff.png)
+
+
+---
+
