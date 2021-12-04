@@ -11,13 +11,13 @@
 
 ![vim1](https://user-images.githubusercontent.com/94304874/144719394-ea2261c5-cc1d-4083-8860-0d8388171cab.png)
 
-
+```
 my score / high score < 2.0
 
 10 / 8 = 1.25
 
 1.25 < 2.0
-
+```
 ---
 # VimGolf2
 
@@ -29,13 +29,13 @@ my score / high score < 2.0
 
 ![vim2](https://user-images.githubusercontent.com/94304874/144719420-a4b886f1-02cf-497d-91d9-ace59fe89471.png)
 
-
+```
 my score / high score < 2.0
 
 27 / 19 = 1.42
 
 1.42 < 2.0
-
+```
 ---
 
 
@@ -49,13 +49,13 @@ my score / high score < 2.0
 
 ![vim3](https://user-images.githubusercontent.com/94304874/144719479-3a9ac429-7c4f-43a4-9ce1-5fbb20d5e8ff.png)
 
-
+```
 my score / high score < 2.0
 
 35 / 20 = 1.6
 
 1.6 < 2.0
-
+```
 ---
 # VimGolf4
 
@@ -67,13 +67,13 @@ my score / high score < 2.0
 
 ![vim4](https://user-images.githubusercontent.com/94304874/144719505-1fc55ccc-e2dd-4093-9420-b181a52559cd.png)
 
-
+```
 my score / high score < 2.0
 
 60 / 34 = 1.76
 
 1.76 < 2.0
-
+```
 ---
 # VimGolf5
 
@@ -85,9 +85,10 @@ my score / high score < 2.0
 
 ![vim5](https://user-images.githubusercontent.com/94304874/144719538-2919113a-cece-4bfe-b5a3-261715686973.png)
 
-
+```
 my score / high score < 2.0
 
 36 / 19 = 1.89
 
 1.89 < 2.0
+```
