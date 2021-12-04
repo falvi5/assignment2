@@ -50,3 +50,15 @@
 
 ![vim4](https://user-images.githubusercontent.com/94304874/144719505-1fc55ccc-e2dd-4093-9420-b181a52559cd.png)
 
+
+---
+# VimGolf5
+
+### 풀이과정
+
+![vim5](https://user-images.githubusercontent.com/94304874/144719532-5879e05e-40c8-425a-9232-8d980235a712.gif)
+
+### 결과
+
+![vim5](https://user-images.githubusercontent.com/94304874/144719538-2919113a-cece-4bfe-b5a3-261715686973.png)
+
